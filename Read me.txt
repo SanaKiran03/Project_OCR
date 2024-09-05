@@ -1,0 +1,19 @@
+How to Rum Online Course Registration Using PHP and MySQL
+
+
+
+Database Configuration
+Open phpmyadmin
+Create Database onlinecourse
+Import database onlinecourse.sql (available inside zip package)
+Open Your browser put inside browser �http://localhost/onlinecourseregistration�
+
+
+Login Details for admin 
+Username: admin
+Password: sana@123
+
+Login Details for Student: 
+Reg No.: 10806121
+Password: sana@123
+Student Pincode for enroll Course Student: 822894
